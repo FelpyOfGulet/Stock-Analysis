@@ -17,7 +17,7 @@ yfin.pdr_override()
 
 
 # %%
-df = pd.read_csv("nasdaq.csv")
+df = pd.read_csv("src/nasdaq.csv")
 
 options = []
 
