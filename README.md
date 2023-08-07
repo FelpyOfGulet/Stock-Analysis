@@ -33,6 +33,8 @@ This will start a local server. You can view the application by navigating to th
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
+Copyright 2023 Guilherme Candeias
+
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
